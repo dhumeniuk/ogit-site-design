@@ -7,6 +7,7 @@ body {
 
 header {
     margin-bottom: 20px;
+    text-align: center;
 }
 
 h1 {
@@ -24,6 +25,8 @@ img {
 #logo-container svg {
     width: 200px;
     height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 #logo-container svg path {
