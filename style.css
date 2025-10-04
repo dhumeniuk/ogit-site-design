@@ -44,7 +44,7 @@ img {
 }
 
 .product-card {
-    border: 1px solid #ccc;
+    border: 1px solid #525508;
     padding: 20px;
     text-align: center;
 }
@@ -67,7 +67,7 @@ img {
 }
 
 .product-card button {
-    background-color: #55080e;
+    background-color: #525508;
     color: #eaeae2;
     border: none;
     padding: 10px 20px;
