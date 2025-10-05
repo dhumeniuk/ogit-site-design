@@ -51,6 +51,8 @@ img {
 
 #products h2 {
     font-size: 14pt;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
 }
 
 .product-grid {
@@ -76,6 +78,7 @@ img {
     max-width: 100%;
     height: auto;
     margin-bottom: 15px;
+    border-radius: 10px;
 }
 
 .product-details {
@@ -86,11 +89,14 @@ img {
     text-align: left;
     font-size: 1.3em;
     font-weight: bold;
+    margin-top: 0 0;
 }
 
-.product-card p {
+.product-details p {
     font-size: 1.1em;
     margin: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
 }
 
 .product-card button {
