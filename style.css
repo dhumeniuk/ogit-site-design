@@ -39,6 +39,8 @@ img {
 
 #hero img {
     border-radius: 20px;
+    width: 95%;
+    max-width: 500px;
 }
 
 #products {
